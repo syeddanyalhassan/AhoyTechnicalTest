@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-16T21:26:20 GST" name="Default suite" finished-at="2022-10-16T21:27:16 GST" duration-ms="56227">
+  <suite started-at="2022-10-29T20:27:30 GST" name="Suite" finished-at="2022-10-29T20:28:29 GST" duration-ms="59310">
     <groups>
     </groups>
-    <test started-at="2022-10-16T21:26:20 GST" name="Default test" finished-at="2022-10-16T21:27:16 GST" duration-ms="56227">
+    <test started-at="2022-10-29T20:27:30 GST" name="Test" finished-at="2022-10-29T20:28:29 GST" duration-ms="59310">
       <class name="com.ahoy.qa.testcases.Womenpagetest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ahoy.qa.testcases.Womenpagetest@41330d4f]" started-at="2022-10-16T21:26:20 GST" name="setUp" finished-at="2022-10-16T21:26:31 GST" duration-ms="10871" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ahoy.qa.testcases.Womenpagetest@4b3ed2f0]" started-at="2022-10-29T20:27:30 GST" name="setUp" finished-at="2022-10-29T20:27:52 GST" duration-ms="21937" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyThatCheckOutItemsWorkFine()[pri:0, instance:com.ahoy.qa.testcases.Womenpagetest@41330d4f]" started-at="2022-10-16T21:26:31 GST" name="verifyThatCheckOutItemsWorkFine" finished-at="2022-10-16T21:27:16 GST" duration-ms="44930" status="PASS">
+        <test-method signature="verifyThatCheckOutItemsWorkFine()[pri:0, instance:com.ahoy.qa.testcases.Womenpagetest@4b3ed2f0]" started-at="2022-10-29T20:27:52 GST" name="verifyThatCheckOutItemsWorkFine" finished-at="2022-10-29T20:28:28 GST" duration-ms="36515" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyThatCheckOutItemsWorkFine -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ahoy.qa.testcases.Womenpagetest@41330d4f]" started-at="2022-10-16T21:27:16 GST" name="teardown" finished-at="2022-10-16T21:27:16 GST" duration-ms="367" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ahoy.qa.testcases.Womenpagetest@4b3ed2f0]" started-at="2022-10-29T20:28:28 GST" name="teardown" finished-at="2022-10-29T20:28:29 GST" duration-ms="626" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.ahoy.qa.testcases.Womenpagetest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
