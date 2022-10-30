@@ -1,0 +1,46 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "android"
+    },
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "android"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "C:\\Users\\Hafsa\\eclipse-workspace\\Appium\\src\\test\\java\\resources\\ApiDemos-debug.apk"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "hostname": "localhost",
+      "port": "4723",
+      "path": "/wd/hub"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {
+      "allowUnauthorized": true
+    },
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}

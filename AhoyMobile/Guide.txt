@@ -1,0 +1,21 @@
+npm install - g appium
+
+Install vysor on desktop
+
+Go to Appium Server GUI -> Advanced
+Server address: localhost
+Port: 4723
+Allow CORP: yes
+
+Go to Appium Inspector
+Remote host: localhost
+Port: 4723
+Path: /wd/hub
+
+Allow Unauthorized Certificates
+
+Select your capabilities
+
+Start server
+
+npm i appium-uiautomator2-driver
