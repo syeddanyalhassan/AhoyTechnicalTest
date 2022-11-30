@@ -32,6 +32,8 @@ public class Womenpagetest extends BasePage {
 	}
    
 
+	@Epic("E001")
+	@Story("ST001: Check")
 	@Test
 	public void verifyThatCheckOutItemsWorkFine() throws InterruptedException
 	{
