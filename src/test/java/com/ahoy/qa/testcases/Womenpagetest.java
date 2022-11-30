@@ -11,6 +11,9 @@ import com.ahoy.qa.page.WomenPage;
 import com.ahoy.qa.utility.Constants;
 import com.ahoy.qa.utility.Report;
 import com.relevantcodes.extentreports.LogStatus;
+
+import io.qameta.allure.Epic;
+import io.qameta.allure.Story;
 public class Womenpagetest extends BasePage {
 
 	Womenpagetest womentest;
@@ -32,6 +35,8 @@ public class Womenpagetest extends BasePage {
 	}
    
 
+	@Epic("E001")
+	@Story("ST001: Check")
 	@Test
 	public void verifyThatCheckOutItemsWorkFine() throws InterruptedException
 	{
